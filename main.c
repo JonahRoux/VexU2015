@@ -1,4 +1,4 @@
-#pragma config(Motor,  port1,           LEFT_DRIVE,    tmotorVex393TurboSpeed_HBridge, openLoop)
+#pragma config(Motor,  port1,           LEFT_DRIVE,    tmotorVex393_HBridge, openLoop)
 #pragma config(Motor,  port2,           RIGHT_DRIVE,   tmotorVex393_MC29, openLoop, encoderPort, None)
 #pragma config(Motor,  port3,           LEFT_TOP_SHOOT, tmotorVex393_MC29, openLoop, encoderPort, None)
 #pragma config(Motor,  port4,           LEFT_BOT_SHOOT, tmotorVex393_MC29, openLoop, encoderPort, None)
